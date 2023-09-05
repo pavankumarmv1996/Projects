@@ -1,2 +1,2 @@
 # Projects
-Data Science projects
+Great Learning AIML PGP projects
